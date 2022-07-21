@@ -1,0 +1,6 @@
+.bg {
+  background-image: url("../../assets/bg.gif");
+  /* background-size: cover; */
+  background-repeat: repeat;
+  height: 94vh;
+}
